@@ -1,0 +1,12 @@
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\bin\Debug\YIIDP.exe.config
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\bin\Debug\YIIDP.exe
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\bin\Debug\YIIDP.pdb
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.csprojResolveAssemblyReference.cache
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.Form1.resources
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.Properties.Resources.resources
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.csproj.GenerateResource.Cache
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.exe
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.pdb
+c:\users\asus2726\documents\visual studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.Baza.resources
+C:\Users\Asus2726\Documents\Visual Studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.Registratsiya.resources
+C:\Users\Asus2726\Documents\Visual Studio 2013\Projects\YIIDP\YIIDP\obj\Debug\YIIDP.Malumotlar.resources
